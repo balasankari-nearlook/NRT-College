@@ -77,7 +77,7 @@
      line-height: 24px;
 }
  .com-sp{
-     padding:100px 0px;
+     padding:50px 0px;
 }
  .pad-top-0{
      padding-top:0px;
@@ -5737,3 +5737,18 @@ padding: 6px 25px;
       flex: 0 0 100%;
     }
   }
+  .colors{
+    color:#e66030;
+    font-size: 45px;
+    font-weight: 500;
+    margin-top: 30px;
+   
+  }
+.contact{
+    color:#212122;
+    font-size: 45px;
+    font-weight: 500;
+    margin-top: 30px;
+    
+    
+}
