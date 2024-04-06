@@ -5752,3 +5752,15 @@ padding: 6px 25px;
     
     
 }
+
+
+@media screen and (max-width: 600px) {
+    .contact {
+        font-size: 18px; /* Adjust font size for smaller screens */
+        font-weight: 500;
+    }
+    .colors{
+        font-size:25px;
+        font-weight: 800; 
+    }
+}
